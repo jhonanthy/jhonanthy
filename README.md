@@ -13,7 +13,7 @@
 :books: **Conhecimento:** 
 
 - SQL(Intermediário);
-
+  
 - Delphi(Intermediário);
 
 - Java(Básico);
