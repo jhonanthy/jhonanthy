@@ -16,7 +16,7 @@
   
 - Delphi(Intermediário);
 
-- Java(Básico);
+- Java;
 
 - Javascript;
 
