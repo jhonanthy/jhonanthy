@@ -28,7 +28,7 @@
 
 - CSS3;
 
--Git/Github; 
+- Git/Github; 
 
 - Inglês Intermediário; 
 
