@@ -13,6 +13,10 @@
 :books: **Conhecimento:** 
 
 - SQL(Intermediário);
+
+- SQL Server;
+
+- Firebird; 
   
 - Delphi(Intermediário);
 
@@ -23,6 +27,8 @@
 - HTML5;
 
 - CSS3;
+
+-Git/Github; 
 
 - Inglês Intermediário; 
 
