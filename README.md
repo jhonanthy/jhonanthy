@@ -8,17 +8,17 @@
 :clipboard: **Atuações e Interesses**
 
    -	Estagio em Desenvolvimento de Software(2018 - 2020) : Atuando na manutenção de sistemas desktop em linguagem Delphi e banco de dados Firebird e SQL Server , utilizando ferramentas de versionamento Tortoise-SVN e ferramenta de Relatórios ReportBuilder;
-   -	Desenvolvedor Delphi Jr(2020 - Atualmente): Atuando na criação e manutenção de sistemas desktop com foco em gestão publica , criação e manipulação de base de dados em SQL Server e Firebird , utilização de API(Whatsapp, Telegram, etc..) e ferramentas ACBR , Ferramentas de Versionamento Tortoise-SVN e Ferramenta de Relatório Tortoise SVN;
+   -	Desenvolvedor Delphi Jr(2020 - Atualmente): Atuando na criação e manutenção de sistemas desktop com foco em gestão publica , criação e manipulação de base de dados em SQL Server e Firebird , utilização de API(Whatsapp, Telegram, etc..) e ferramentas ACBR , Ferramentas de Versionamento Tortoise-SVN e Ferramenta de Relatório Report Builder;
 
 :books: **Conhecimento:** 
 
-- SQL(Intermediário);
+- Linguagem SQL;
 
-- SQL Server;
+- Microsoft SQL Server ;
 
 - Firebird; 
   
-- Delphi(Intermediário);
+- Delphi;
 
 - Java;
 
