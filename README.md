@@ -3,7 +3,7 @@
 :scroll:  **Sobre mim** 
 
  -	Graduando em Ciências da Computação pela Universidade Federal da Paraíba (UFPB);
- -	Desenvolvedor Delphi Jr;
+ -	Desenvolvedor Delphi PL;
 
 :clipboard: **Atuações e Interesses**
 
