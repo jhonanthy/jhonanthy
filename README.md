@@ -23,6 +23,10 @@
 
 - Java;
 
+- C#
+
+- C/C++
+
 - Javascript;
 
 - HTML5;
