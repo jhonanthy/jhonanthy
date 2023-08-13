@@ -60,6 +60,7 @@
 
 - **Linkedin:**  https://www.linkedin.com/in/jhonanthy-almeida-713a04187/
 - **Email:** JhonanthyAlmeida@cc.ci.ufpb.br
+- **Email-Secundario** Jhonanthy@hotmail.com
 
 
 
