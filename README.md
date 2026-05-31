@@ -2,7 +2,8 @@
 
 :scroll:  **Sobre mim** 
 
- -	Graduaado em Analise e Desenvolvimento de Sistemas;
+ -	Graduado em Analise e Desenvolvimento de Sistemas;
+ -	Pós Graduado em Inteligencia Artificial e Machine Learning.(Não atuante na área)
  -	Desenvolvedor Delphi Sr;
 
 :clipboard: **Atuações e Interesses**
