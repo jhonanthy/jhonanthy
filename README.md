@@ -2,8 +2,8 @@
 
 :scroll:  **Sobre mim** 
 
- -	Graduando em Ciências da Computação pela Universidade Federal da Paraíba (UFPB);
- -	Desenvolvedor Delphi PL;
+ -	Graduaado em Analise e Desenvolvimento de Sistemas;
+ -	Desenvolvedor Delphi Sr;
 
 :clipboard: **Atuações e Interesses**
 
@@ -11,6 +11,7 @@
    -	Desenvolvedor Delphi Jr(2020 - 2022): Atuando na criação e manutenção de sistemas desktop com foco em gestão publica , criação e manipulação de base de dados em SQL Server e Firebird , utilização de API(Whatsapp, Telegram, etc..) e ferramentas ACBR , Ferramentas de Versionamento Tortoise-SVN e Ferramenta de Relatório Report Builder;
    -	Programador Pleno II(2022 - 2023):Atuando na criação e manutenção de sistemas para área Industrial ,Criação e manipulação de base de dados e Relatorios, Utilização de Metodologia Scrum , Testes Unitarios, Design Patterns;
    -	Analista Desenvolvedor(MAI/2023 - AGO/2023): Atuando na Squad de Projetos , analisando e desenvolvendo customizaçãoes e manutenção de codigo, Utilizando metodologis ageis e Testes Unitarios.
+   -	Analista de Sistemas(SET/2023 - Atualmente): Atuando em Clientes construindo aplicações e dando manutenção em sistemas utilizando metodologia agil , AWS, Docker, Delphi de varias versões do delphi 5 para sistemas legados bem como delphi de versões superiores para aplicações mais novas.
 
 :books: **Conhecimento:** 
 
